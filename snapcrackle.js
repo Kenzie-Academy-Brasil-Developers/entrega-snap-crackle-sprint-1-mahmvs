@@ -18,4 +18,3 @@ function snapCrackle(maxValue) {
     
     return retorno
 }
-console.log(snapCrackle(maxValue))
